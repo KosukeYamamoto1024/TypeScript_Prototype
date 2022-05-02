@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/KosukeYamamoto1024/TypeScript_Prototype/issues"
   },
-  "homepage": "https://github.com/KosukeYamamoto1024/TypeScript_Prototype#readme"
+  "homepage": "https://github.com/KosukeYamamoto1024/TypeScript_Prototype#readme",
+  "dependencies": {
+    "@types/google-apps-script": "^1.0.46"
+  }
 }
